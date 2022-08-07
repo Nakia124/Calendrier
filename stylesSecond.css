@@ -1,0 +1,21 @@
+button {
+    width: 90px;
+    cursor: pointer;
+    box-shadow: 0px 0px 2px gray;
+    border: none;
+    outline: none;
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+  }
+
+  #back {
+    background-color: red;
+    width: auto;
+  }
+
+  #add {
+    background-color: #B0F2B6;
+    width: auto;
+  }
+
